@@ -1,0 +1,10 @@
+name: '${project.name}'
+version: '${project.version}'
+website: '${project.url}'
+description: '${project.description}'
+author: A4Z0
+
+main: net.a4z0.minesweeper.Minesweeper
+load: POSTWORLD
+database: false
+api-version: 1.13
